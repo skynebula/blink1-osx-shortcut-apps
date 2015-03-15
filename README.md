@@ -9,9 +9,9 @@ You just have to put unzip the Blink(1) folder into your Applications folder and
 ![Apps in the Dock](https://dl.dropboxusercontent.com/u/7430783/img/blink_apps.png)
 
 Here are the color "codes" for me:
-- Green = available
-- Red = do not disturb
-- Orange = in a meeting
+- Green = Available
+- Red = Do not disturb
+- Orange = In a meeting
 - Blue = Having a coffee
 
 Don't hesitate to [ping me on Twitter](http://twitter.com/skynebula) if you have any question...
