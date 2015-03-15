@@ -2,7 +2,7 @@
 
 Shortcut apps to change the color of your [Blink(1)](http://blink1.thingm.com/) USB light.
 
-More info soon...
+![Apps in the Dock](https://dl.dropboxusercontent.com/u/7430783/img/blink_apps.png)
 
 -
 
