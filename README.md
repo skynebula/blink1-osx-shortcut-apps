@@ -14,6 +14,10 @@ Here are the color "codes" for me:
 - Orange = in a meeting
 - Blue = Having a coffee
 
+Don't hesitate to [ping me on Twitter](http://twitter.com/skynebula) if you have any question...
+
+Licence : [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 -
 
 Thanks to [Julien](https://github.com/JulienRamel) for the help :)
