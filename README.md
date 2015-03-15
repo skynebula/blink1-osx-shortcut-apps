@@ -16,7 +16,7 @@ Here are the color "codes" for me:
 
 Don't hesitate to [ping me on Twitter](http://twitter.com/skynebula) if you have any question...
 
-Thanks to [Julien](https://github.com/JulienRamel) for the help :)
+PS: Thanks to [Julien](https://github.com/JulienRamel) for the help :)
 
 -
 
