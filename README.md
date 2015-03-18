@@ -16,8 +16,6 @@ Here are the color "codes" for me:
 
 I've also added workflows for [Alfred](http://www.alfredapp.com) to activate the different colors and to switch off the light as well.
 
--
-
 Don't hesitate to [ping me on Twitter](http://twitter.com/skynebula) if you have any question...
 
 PS: Thanks to [Julien](https://github.com/JulienRamel) for the help :)
