@@ -14,6 +14,8 @@ Here are the color "codes" for me:
 - Orange = In a meeting
 - Blue = Having a coffee
 
+![Caption for the people around you](https://dl.dropboxusercontent.com/u/7430783/img/blink_caption.png)
+
 I've also added workflows for [Alfred](http://www.alfredapp.com) to activate the different colors and to switch off the light as well.
 
 Don't hesitate to [ping me on Twitter](http://twitter.com/skynebula) if you have any question...
