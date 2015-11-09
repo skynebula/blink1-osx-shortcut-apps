@@ -14,7 +14,9 @@ Here are the color "codes" for me:
 - Orange = In a meeting
 - Blue = Having a coffee
 
+
 I've even made a small label to caption all the different color states :
+
 ![Caption for the people around you](https://dl.dropboxusercontent.com/u/7430783/img/blink_caption.png)
 
 
