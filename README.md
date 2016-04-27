@@ -17,10 +17,12 @@ Here are the color "codes" for me:
 - Blue = Having a coffee
 
 
-I've even made a small label to caption all the different color states :
+I've even made a small label to caption all the different color states:
 
 ![Caption for the people around you](https://dl.dropboxusercontent.com/u/7430783/img/blink_caption.png)
 
+Looking like that when installed:
+![Label](https://dl.dropboxusercontent.com/u/7430783/img/blink_label.png)
 
 I've also added workflows for [Alfred](http://www.alfredapp.com) to activate the different colors and to switch off the light as well.
 
