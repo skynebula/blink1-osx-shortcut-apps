@@ -6,6 +6,8 @@ But I was tired to launch the official control panel to change the light accordi
 
 You just have to put unzip the Blink(1) folder into your Applications folder and then to drop it on your Dock, to get a shortcut lanchpad like this:
 
+![Folder in the Dock](https://dl.dropboxusercontent.com/u/7430783/img/blink_folder.png)
+
 ![Apps in the Dock](https://dl.dropboxusercontent.com/u/7430783/img/blink_apps.png)
 
 Here are the color "codes" for me:
