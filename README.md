@@ -6,9 +6,9 @@ But I was tired to launch the official control panel to change the light accordi
 
 You just have to put unzip the Blink(1) folder into your Applications folder and then to drop it on your Dock, to get a shortcut lanchpad like this:
 
-![Folder in the Dock](https://dl.dropboxusercontent.com/u/7430783/img/blink_folder.png)
+![Folder in the Dock](https://i.imgur.com/wmty79a.png)
 
-![Apps in the Dock](https://dl.dropboxusercontent.com/u/7430783/img/blink_apps.png)
+![Apps in the Dock](https://i.imgur.com/aAy0QZ5.png)
 
 Here are the color "codes" for me:
 - Green = Available
@@ -19,11 +19,11 @@ Here are the color "codes" for me:
 
 I've even made a small label to caption all the different color states:
 
-![Caption for the people around you](https://dl.dropboxusercontent.com/u/7430783/img/blink_caption.png)
+![Caption for the people around you](https://i.imgur.com/SboRsHm.png)
 
 Looking like that when installed:
 
-![Label](https://dl.dropboxusercontent.com/u/7430783/img/blink_label.png)
+![Label](https://i.imgur.com/NYbzuZC.png)
 
 I've also added workflows for [Alfred](http://www.alfredapp.com) to activate the different colors and to switch off the light as well.
 
