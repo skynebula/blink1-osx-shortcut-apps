@@ -31,6 +31,6 @@ Don't hesitate to [ping me on Twitter](http://twitter.com/skynebula) if you have
 
 PS: Thanks to [Julien](https://github.com/JulienRamel) for the help :)
 
--
+---
 
 Licence : [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
