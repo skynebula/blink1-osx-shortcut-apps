@@ -1,4 +1,5 @@
 # Blink(1) macOS shortcut apps
+
 ### Shortcut apps to change the color of your Blink(1) USB light.
 
 I use the great [Blink(1)](http://blink1.thingm.com/) USB multi-color LED light to subtly tell to my colleagues when I'm available or not while working (so, if they can interrupt me or not).
